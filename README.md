@@ -1,6 +1,14 @@
-# parcel_app
+# ParcelSafe
 
-A new Flutter project.
+ParcelSafe mobile application serves as the User Interface (UI) for the ParcelSafe Box System. It is created using Dart and Flutter. It allow the user to monitor and manage their deliveries and pick-up. This project serves as the final project for Application Development.
+
+# Features
+- Manage personal account details and settings.
+- Access and monitor various dashboards, including:
+- Outside surroundings for delivery verification.
+- Inside monitoring for verifying delivered parcels.
+- Generate a One-time Pin (OTP) for secure access.
+- Receive notifications for parcel delivery confirmations and other relevant alerts.
 
 ## Getting Started
 
